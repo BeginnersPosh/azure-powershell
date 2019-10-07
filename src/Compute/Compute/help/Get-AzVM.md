@@ -6,7 +6,7 @@ online version: https://docs.microsoft.com/en-us/powershell/module/az.compute/ge
 schema: 2.0.0
 ---
 
-# Get-AzVM
+# Get-AzVM (Dan Iverson should get full credit for this cmdlet :)
 
 ## SYNOPSIS
 Gets the properties of a virtual machine.
